@@ -1,0 +1,4 @@
+Added Component: Designator=HD18(HED2T)
+Added Pin To Net: NetName=GND Pin=HD18-1
+Added Pin To Net: NetName=VCC Pin=HD18-2
+Added Member To Class: ClassName=Module_Relay_UART_CAN Member=Component HD18 Header 2

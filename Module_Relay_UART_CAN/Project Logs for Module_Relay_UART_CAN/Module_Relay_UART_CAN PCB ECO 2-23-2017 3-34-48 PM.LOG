@@ -1,0 +1,7 @@
+Added Component: Designator=JP5(CON4)
+Added Pin To Net: NetName=NRST Pin=JP5-1
+Added Pin To Net: NetName=SWDO Pin=JP5-2
+Added Pin To Net: NetName=SWCK Pin=JP5-3
+Added Pin To Net: NetName=GND_ISO Pin=JP5-4
+Added Member To Class: ClassName=Module_Relay_UART_CAN Member=Component JP5 JP4
+Added Room: Name=Module_Relay_UART_CAN
